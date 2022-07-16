@@ -1,4 +1,4 @@
-# Navbar with React
+# Shopping List with React
 
 [See the page](https://emreozturanli.github.io/Shopping-List/)
 
